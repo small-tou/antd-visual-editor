@@ -8,6 +8,10 @@ https://xinyu198736.github.io/antd-visual-editor/index.html
 
 托管在 github，第一次加载会比较慢
 
+截图：
+
+![](https://img.souche.com/0a3a88462435f20952346980e3ee4df5.png)
+
 ## 运行
 
 ```bash
