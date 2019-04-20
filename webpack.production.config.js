@@ -28,7 +28,7 @@ module.exports = {
     entry: entries,
     output: {
         publicPath: './',
-        path: path.join(__dirname, './public'),
+        path: path.join(__dirname, './docs'),
         filename: '[name]_[hash].js'
     },
     resolve: {
