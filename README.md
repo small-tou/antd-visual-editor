@@ -2,6 +2,12 @@
 
 > 此项目是上古项目，代码问题比较多，仅供参考，感兴趣的可以根据原理重构一版
 
+## 线上实例
+
+https://xinyu198736.github.io/antd-visual-editor/index.html
+
+托管在 github，第一次加载会比较慢
+
 ## 运行
 
 ```bash
