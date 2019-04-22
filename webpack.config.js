@@ -83,6 +83,10 @@ module.exports = {
             filename: 'style.css',
             allChunks: true
         }),
+        new HtmlWebpackPlugin({
+            title:"Antd Editor",
+            template:"public/template.html"
+        }),
         new DashboardPlugin()
     ]
 };
