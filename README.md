@@ -19,7 +19,7 @@ https://xinyu198736.github.io/antd-visual-editor/index.html
 ```bash
 npm run build;
 npm run start;
-# 因为我不太懂 webpack ，不太会配置，这个项目修改代码后实时生效还有问题。。求 pr
+# （已修复）因为我不太懂 webpack ，不太会配置，这个项目修改代码后实时生效还有问题。。求 pr
 ```
 
 ## 特性
