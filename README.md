@@ -6,7 +6,7 @@
 
 ## 线上实例
 
-https://xinyu198736.github.io/antd-visual-editor/index.html
+https://yu-tou.github.io/antd-visual-editor/index.html
 
 托管在 github，第一次加载会比较慢
 
